@@ -1,0 +1,19 @@
+{
+  "name": "cors",
+  "version": "1.0.0",
+  "description": "A cors-anywhere proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cors-anywhere",
+    "cors",
+    "proxy"
+  ],
+  "author": "Arjun",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
